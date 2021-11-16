@@ -1,2 +1,2 @@
 # Image-Segmentation
-An image segmentation notebook on medical images
+A repository for work related to medical image classification and segmentation.
